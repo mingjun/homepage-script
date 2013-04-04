@@ -1,0 +1,122 @@
+Image: IMG_0092.JPG
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Class: DirectClass
+  Geometry: 1024x765+0+0
+  Resolution: 72x72
+  Print size: 14.2222x10.625
+  Units: PixelsPerInch
+  Type: TrueColor
+  Endianess: Undefined
+  Colorspace: RGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Red:
+      min: 14 (0.054902)
+      max: 255 (1)
+      mean: 206.352 (0.809225)
+      standard deviation: 37.8385 (0.148386)
+      kurtosis: 1.12209
+      skewness: -0.946447
+    Green:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 128.079 (0.50227)
+      standard deviation: 86.9923 (0.341146)
+      kurtosis: -1.43722
+      skewness: -0.179772
+    Blue:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 119.409 (0.46827)
+      standard deviation: 76.4324 (0.299735)
+      kurtosis: -1.42691
+      skewness: 0.143267
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 113.46 (0.444941)
+      standard deviation: 95.6459 (0.375082)
+      kurtosis: -1.64831
+      skewness: 0.021087
+  Rendering intent: Undefined
+  Interlace: None
+  Background color: white
+  Border color: rgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Compose: Over
+  Page geometry: 1024x765+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 96
+  Orientation: BottomRight
+  Properties:
+    date:create: 2013-03-30T17:32:38+08:00
+    date:modify: 2013-03-30T17:16:28+08:00
+    exif:ApertureValue: 4845/1918
+    exif:BrightnessValue: 304/1913
+    exif:ColorSpace: 1
+    exif:ComponentsConfiguration: 1, 2, 3, 0
+    exif:Compression: 6
+    exif:DateTime: 2012:09:16 07:17:07
+    exif:DateTimeDigitized: 2012:09:16 07:17:07
+    exif:DateTimeOriginal: 2012:09:16 07:17:07
+    exif:ExifImageLength: 1936
+    exif:ExifImageWidth: 2592
+    exif:ExifOffset: 188
+    exif:ExifVersion: 48, 50, 50, 49
+    exif:ExposureMode: 0
+    exif:ExposureProgram: 2
+    exif:ExposureTime: 1/15
+    exif:Flash: 32
+    exif:FlashPixVersion: 48, 49, 48, 48
+    exif:FNumber: 12/5
+    exif:FocalLength: 107/25
+    exif:FocalLengthIn35mmFilm: 35
+    exif:ISOSpeedRatings: 400
+    exif:JPEGInterchangeFormat: 684
+    exif:JPEGInterchangeFormatLength: 9409
+    exif:Make: Apple
+    exif:MeteringMode: 5
+    exif:Model: iPad
+    exif:Orientation: 3
+    exif:ResolutionUnit: 2
+    exif:SceneCaptureType: 0
+    exif:SensingMethod: 2
+    exif:Sharpness: 0
+    exif:ShutterSpeedValue: 6337/1622
+    exif:Software: 5.1.1
+    exif:SubjectArea: 1295, 967, 699, 696
+    exif:WhiteBalance: 0
+    exif:XResolution: 72/1
+    exif:YCbCrPositioning: 1
+    exif:YResolution: 72/1
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 2x2,1x1,1x1
+    mwg-rs:AppliedToDimensions: 
+               
+               
+               
+            
+    mwg-rs:RegionList: 
+               
+            
+    signature: 594fb74a7ae81b649fc2a9e6ca48a1f8c5e4123825a9a8dfa3cfa6c3d4d97fe9
+  Profiles:
+    Profile-exif: 10101 bytes
+    Profile-xmp: 1822 bytes
+  Artifacts:
+    verbose: true
+  Tainted: False
+  Filesize: 335KB
+  Number pixels: 783K
+  Pixels per second: 4.352M
+  User time: 0.180u
+  Elapsed time: 0:01.179
+  Version: ImageMagick 6.6.2-6 2012-08-17 Q16 http://www.imagemagick.org
