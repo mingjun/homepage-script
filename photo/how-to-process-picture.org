@@ -1,5 +1,5 @@
 (GNU) ImageMagick tools
-* Detect size
+* detect size
 identify -format "%w*%h" a.jpg
 identify -verbose a.jpg
 identify -format "%f|%w|%h" path/*.jpg
@@ -9,3 +9,5 @@ identify -format "%f|%w|%h" path/*.jpg
  mogrify -path out/ -resize 1024x768 *.JPG
 ** bad usage
 find . -name "*.JPG" -exec convert -resize "1024x768>" {} {} \;
+* rotation for orient
+mogrify -auto-orient *.jpg
