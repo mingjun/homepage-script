@@ -10,4 +10,4 @@ identify -format "%f|%w|%h" path/*.jpg
 ** bad usage
 find . -name "*.JPG" -exec convert -resize "1024x768>" {} {} \;
 * rotation for orient
-mogrify -auto-orient *.jpg
+  mogrify -auto-orient *.jpg
