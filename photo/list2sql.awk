@@ -1,5 +1,5 @@
 BEGIN {
-    print "insert into photo_info (name, time, size, orient) values"
+    print "insert into photo_info (name, time, size) values"
 }
 
 END {
@@ -7,5 +7,5 @@ END {
 }
 {
     if(NR>1) print ","
-    printf "('%s', '%s', '%s', '%s')", $1, $2, $3, $4
+    printf "('%s', '%s:%s', '%s')", $1, $2, $3, $4
 }
